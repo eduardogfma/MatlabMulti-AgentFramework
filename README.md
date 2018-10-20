@@ -8,6 +8,7 @@ A multi-agent system, is one in which various agents *interact* with one another
 From an implementation point of view, any given multi-agent system can be seen as the interaction between 3 fundamental objects: the environment, the time module and the agent(s), as shown in figure 1.
 
 ![MAScheme](MAScheme.png)
+
 *Figure 1 --- Fundamental objects of a multi-agent system and its interaction.*
 
 The time module plays a pivotal role on these systems, since it is responsible for the *scheduling* and *activation* of agents. That is, to set the order by which agents are called upon to act. In short, this module glues together the environment and the agent objects.
