@@ -43,6 +43,7 @@ The present project was based on the Mesa Python Project: https://mesa.readthedo
 
 It is composed of three main modules: model, agent and time module.
 
+### Example
 The example herein used is the Random Wealth Game (https://github.com/eduardogfma/RandomWealthGame): a game where each agent starts with a coin and in each step it has to randomly choose and give away a coin.
 
 ## References
