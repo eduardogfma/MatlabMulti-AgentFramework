@@ -9,7 +9,7 @@ From an implementation point of view, any given multi-agent system can be seen a
 
 ![MAScheme](MAScheme.png)
 
-*Figure 1 --- Fundamental objects of a multi-agent system and its interaction.*
+Figure 1 --- Fundamental objects of a multi-agent system and its interaction.
 
 The time module plays a pivotal role on these systems, since it is responsible for the *scheduling* and *activation* of agents. That is, to set the order by which agents are called upon to act. In short, this module glues together the environment and the agent objects.
 
